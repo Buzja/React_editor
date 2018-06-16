@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.image{
+  height: 720px;
+  width: 1200px;
+  background-size: cover;
+}
+.content{
+  display: flex;
+}
